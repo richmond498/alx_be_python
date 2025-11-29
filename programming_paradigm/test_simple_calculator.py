@@ -1,5 +1,6 @@
 import unittest
 from alx_be_python.programming_paradigm.test_simple_calculator import SimpleCalculator
+from simple_calculator import SimpleCalculator
 
 class TestSimpleCalculator(unittest.TestCase):
 
